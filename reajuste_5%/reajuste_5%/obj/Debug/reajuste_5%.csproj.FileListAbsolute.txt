@@ -1,0 +1,7 @@
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\bin\Debug\reajuste_5%.exe.config
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\bin\Debug\reajuste_5%.exe
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\bin\Debug\reajuste_5%.pdb
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\obj\Debug\reajuste_5%.csproj.AssemblyReference.cache
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\obj\Debug\reajuste_5%.csproj.CoreCompileInputs.cache
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\obj\Debug\reajuste_5%.exe
+C:\Users\joao.vdsilva15\Documents\c#\reajuste_5%\reajuste_5%\obj\Debug\reajuste_5%.pdb
