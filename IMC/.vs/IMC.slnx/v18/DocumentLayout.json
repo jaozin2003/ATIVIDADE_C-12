@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.vdsilva15\\Documents\\c#\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807FC2F4-0DB0-4930-B5BD-6430860A6460}|IMC\\IMC.csproj|c:\\users\\joao.vdsilva15\\documents\\c#\\imc\\imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807FC2F4-0DB0-4930-B5BD-6430860A6460}|IMC\\IMC.csproj|solutionrelative:imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vdsilva15\\Documents\\c#\\IMC\\IMC\\Program.cs",
+              "RelativeDocumentMoniker": "IMC\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.vdsilva15\\Documents\\c#\\IMC\\IMC\\Program.cs",
+              "RelativeToolTip": "IMC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:10:52.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
